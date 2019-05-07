@@ -1,0 +1,203 @@
+# depslib dependency file v1.0
+1557185937 source:d:\tello maximiliano 1f parcial\parcial 1f tello\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Funciones.h"
+	"autores.h"
+
+1557184900 d:\tello maximiliano 1f parcial\parcial 1f tello\funciones.h
+
+1557185611 d:\tello maximiliano 1f parcial\parcial 1f tello\autores.h
+
+1557184898 source:d:\tello maximiliano 1f parcial\parcial 1f tello\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1557186220 source:d:\tello maximiliano 1f parcial\parcial 1f tello\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Funciones.h"
+	"libros.h"
+
+1557186134 d:\tello maximiliano 1f parcial\parcial 1f tello\libros.h
+
+1557189686 source:d:\tello maximiliano 1f parcial\parcial 1f tello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Funciones.h"
+	"autores.h"
+	"libros.h"
+	"socios.h"
+	"prestamos.h"
+
+1557189470 d:\tello maximiliano 1f parcial\parcial 1f tello\socios.h
+
+1557180084 d:\tello maximiliano 1f parcial\parcial 1f tello\prestamos.h
+
+1557180090 source:d:\tello maximiliano 1f parcial\parcial 1f tello\prestamos.c
+
+1557190246 source:d:\tello maximiliano 1f parcial\parcial 1f tello\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Funciones.h"
+	"autores.h"
+	"libros.h"
+	"socios.h"
+	"prestamos.h"
+
+1557258150 source:c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Funciones.h"
+	"autores.h"
+
+1557202593 c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master\funciones.h
+
+1557258152 c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master\autores.h
+
+1557197417 source:c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Funciones.h"
+	"fecha.h"
+
+1557197398 c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master\fecha.h
+
+1557202593 source:c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1557258534 source:c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Funciones.h"
+	"autores.h"
+	"libros.h"
+
+1557258404 c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master\libros.h
+
+1557190587 source:c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master\prestamos.c
+
+1557258467 source:c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Funciones.h"
+	"fecha.h"
+	"autores.h"
+	"libros.h"
+	"socios.h"
+	"prestamos.h"
+
+1557258557 c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master\socios.h
+
+1557258467 c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master\prestamos.h
+
+1557203849 source:c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Funciones.h"
+	"fecha.h"
+	"autores.h"
+	"libros.h"
+	"socios.h"
+	"prestamos.h"
+
+1557202593 source:c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master tello\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1557202593 c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master tello\funciones.h
+
+1557262117 source:c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master tello\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"autores.h"
+	"Funciones.h"
+
+1557260040 c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master tello\autores.h
+
+1557260328 source:c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master tello\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Funciones.h"
+	"fecha.h"
+
+1557197398 c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master tello\fecha.h
+
+1557262076 source:c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master tello\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Funciones.h"
+	"autores.h"
+	"libros.h"
+
+1557260403 c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master tello\libros.h
+
+1557260771 source:c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master tello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Funciones.h"
+	"fecha.h"
+	"autores.h"
+	"libros.h"
+	"socios.h"
+	"prestamos.h"
+
+1557260591 c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master tello\socios.h
+
+1557260681 c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master tello\prestamos.h
+
+1557260660 source:c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master tello\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Funciones.h"
+	"fecha.h"
+	"libros.h"
+	"socios.h"
+
+1557260834 source:c:\users\tello\onedrive\escritorio\primer parcial\primer-parcial-master tello\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Funciones.h"
+	"autores.h"
+	"fecha.h"
+	"libros.h"
+	"socios.h"
+	"prestamos.h"
+
